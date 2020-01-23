@@ -5,7 +5,7 @@ Boost your hours played on Steam with secretly-idler
 How do I use it?
 ==================
 
-To use secretly-idler first you need to install [NodeJS] (https://nodejs.org/)
+To use secretly-idler first you need to install [NodeJS](https://nodejs.org/)
 
 Prerequisites
 ------------
